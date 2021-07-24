@@ -1,2 +1,2 @@
-# DNL_3DCNN
-The code of DNL_3DCNN
+# DNL-3DCNN
+The code of DNL-3DCNN.
